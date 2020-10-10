@@ -2,7 +2,7 @@
 Hey there, I'm Vignesh S S!
 
      
-- 🔭 I’m currently working in Tata Consultancy Services.
+- 🔭 I’m currently working as a Machine Learning Engineer in Tata Consultancy Services.
 - ⚡  I'm currently learning from Analytics Vidhya, KDNuggets and TowardsDataScience.
 - 🤔 I’m looking for an new opportunities in Machine Learning field.
 - 👯 I’mopen for collaborations in Data Science and Machine Learning domains
