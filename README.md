@@ -11,7 +11,7 @@ Hey there, I'm Vignesh S S!
 
 skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermediate', 'Statistics' : 'Advance}
 tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'spacy', 'matplotlib', 'seaborn', 'plotly & cufflinks','keras', 'flask', 'tableau','time series','deep learning']
-cloud_architecture = [ 'aws sagemaker', 'AWS']
+cloud_architecture = [ 'Microsoft Azure']
 kaggle_competitions = 19
 active_blogger = True
 
