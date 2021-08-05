@@ -7,7 +7,7 @@ Hey there, I'm Vignesh S S!
 - 🤔 I’m looking for an new opportunities in Machine Learning field.
 - 👯 I’m open for collaborations in Data Science and Machine Learning domains
 
-b>My YouTube Channel Link -    </b>
+<b>My YouTube Channel Link</b>
   <a href="https://www.youtube.com/channel/UCBhgeLTsXfbOCftTUu9nHSw" target="_blank">
   <img height="30"
     alt="Youtube"
