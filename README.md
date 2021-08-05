@@ -4,7 +4,7 @@ Hey there, I'm Vignesh S S!
      
 -  I’m currently working as a Data Scientist in Deloitte USI.
 -  I'm actively writing blogs on Linkedin in [Cloud_AI_Analytics](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true).
--  I'm posting videos on advanced technologies in Azure and ML technologies in [Cloud_AI_Analytics](https://www.youtube.com/channel/UCBhgeLTsXfbOCftTUu9nHSw)
+-  I'm posting videos on advanced techniques in Azure and ML related technologies in [Cloud_AI_Analytics](https://www.youtube.com/channel/UCBhgeLTsXfbOCftTUu9nHSw)
 -  I’m looking for an new opportunities in Machine Learning field.
 -  I’m open for collaborations in Data Science and Machine Learning domains
 
