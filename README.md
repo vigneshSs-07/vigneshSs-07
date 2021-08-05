@@ -4,7 +4,7 @@ Hey there, I'm Vignesh S S!
      
 - 🔭 I’m currently working as a Data Scientist in Deloitte USI. 
 - ⚡  I'm currently learning from Analytics Vidhya, KDNuggets and TowardsDataScience.
-- 🖋️  I'm actively writing blogs on Linkedin in [Cloud_AI_Analytics](#https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true).
+- 🖋️  I'm actively writing blogs on Linkedin in [Cloud_AI_Analytics](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true).
 - 🤔 I’m looking for an new opportunities in Machine Learning field.
 - 👯 I’m open for collaborations in Data Science and Machine Learning domains
     
