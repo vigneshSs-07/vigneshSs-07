@@ -2,8 +2,8 @@
 Hey there, I'm Vignesh S S!
 
      
--  I’m currently working as a Data Scientist in **Deloitte USI**. Working in real time ML project for various clients.
--  My previous employer is **TCS-digital** where I had worked on various POC in building machine learning project.
+-  I’m currently working as a Data Scientist in **Deloitte USI**. Working in real time ML project for Healthcare client.
+-  My previous employer is **TCS-digital** where my primary tasks is to build various ML POC under airlines and retail domains.
 -  Learning from [Kaggle](https://www.kaggle.com/) and [Analytics Vidhya](https://www.analyticsvidhya.com/)
 -  Actively writing blogs on **Linkedin** in [Cloud_AI_Analytics](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true).
 -  Sharing back to community through youtube on advanced techniques in cloud like **Azure** and **ML** and **NLP** related technologies through
