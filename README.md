@@ -18,7 +18,7 @@ Hey there, I'm Vignesh S S!
 def vignesh_07():
   skills_with_proficiency = {'Python': 'Advance', 'SQL & NoSQL': 'Intermediate', 'DSA': 'Intermidiate', 'Statistics' : 'Advance'}
   tools = ['numpy', 'pandas', 'pyspark', 'sklearn', 'nltk','spacy' ,'matplotlib', 'seaborn', 'keras', 'flask', 'powerBI', 'pyspark', 'time series', 'devops', 'Bigdata technologies']
-  cloud_architecture = ['Microsoft Azure Services']
+  cloud_architecture = ['Microsoft Azure Services', ' Google Cloud Platform']
   active_blogger = True
   return cool
 ```
