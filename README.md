@@ -3,6 +3,7 @@ Hey there, I'm Vignesh S S!
 
      
 -  I’m currently working as a Data Scientist in **Deloitte USI**. Working in real time ML project for Healthcare client.
+-  Completed Microsoft Certified Azure Data Scientist Associate [Microsoft Data Scientist](https://www.credly.com/badges/91fffff4-5df5-480d-a0f3-b85f85781522/public_url)
 -  Completed Certification in Microsoft as Microsoft Certified Azure AI Fundamentals [AI Fundamentals](https://certification.microsoft.com/badge)
 -  Completed Certification in Microsoft as Microsoft Certified Azure Fundamentals [Azure Fundamentals](https://certification.microsoft.com/badge)
 -  My previous employer is **TCS-digital** where my primary tasks is to build various ML POC under airlines and retail domains.
