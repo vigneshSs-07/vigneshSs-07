@@ -20,7 +20,7 @@ Hey there, I'm Vignesh S S!
 ```python
 def vignesh_07():
   skills_with_proficiency = {'Python': 'Advance', 'SQL & NoSQL': 'Intermediate', 'DSA': 'Intermidiate', 'Statistics' : 'Advance'}
-  tools = ['numpy', 'pandas', 'pyspark', 'sklearn', 'nltk','spacy' ,'matplotlib', 'seaborn', 'keras', 'flask', 'powerBI', 'pyspark', 'time series', 'devops', 'Bigdata technologies']
+  tools = ['numpy', 'pandas', 'pyspark', 'sklearn', 'nltk','spacy' ,'matplotlib', 'seaborn', 'keras', 'json', 'flask', 'powerBI', 'pyspark', 'time series', 'devops', 'Bigdata technologies']
   cloud_architecture = ['Microsoft Azure Services', ' Google Cloud Platform']
   active_blogger = True
   return cool
@@ -30,6 +30,7 @@ Connect me on:
 
     LinkedIn: https://www.linkedin.com/in/vignesh-sekar-sujatha-02aa9b125/
     Kaggle: https://www.kaggle.com/vignesh1271
+    Amsparks_Instructor: https://amsparks.com/user
     
 Note: Please do not spam on the above mentioned profiles.
 
