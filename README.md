@@ -11,7 +11,7 @@ Hey there, I'm Vignesh S S!
 -  Actively writing blogs on **Linkedin** in [Cloud_AI_Analytics](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true) and [**Amsparks**](https://amsparks.com/).
 -  Sharing back to community through youtube on advanced techniques in cloud like **Azure**, **GCP**, **SQL**, **Statistics**, **ML** and **NLP** related technologies through
    [Cloud_AI_Analytics](https://www.youtube.com/channel/UCBhgeLTsXfbOCftTUu9nHSw).
--  Instructor at [Amsparks](https://amsparks.com/)
+-  Data Science and Cloud platform **Instructor** at [Amsparks](https://amsparks.com/)
 -  Actively learning and looking for better opportunities in Machine Learning and Bigdata technologies.
 -  Open for collaborations in Data Science and Machine Learning projects.
 
