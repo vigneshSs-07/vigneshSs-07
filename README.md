@@ -1,6 +1,13 @@
 
 Hey there, I'm Vignesh S S!
 
+### Hey there..!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://www.linkedin.com/in/vignesh-sekar-sujatha-02aa9b125/">
+  <img align="left" alt="Vignesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=vigneshSs-07.vigneshSs-07)
      
 -  I’m currently working as a Data Scientist in **Deloitte USI**. Working in real time ML project for Healthcare client.
 -  Completed Microsoft Certified Azure Data Scientist Associate [Microsoft Data Scientist](https://www.credly.com/badges/91fffff4-5df5-480d-a0f3-b85f85781522/public_url)
