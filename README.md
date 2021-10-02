@@ -1,7 +1,7 @@
 
 ### Hey there..!!! I'm Vignesh S S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
     
--  Hi, i'm a passionate self-taught Data Scientist as well as Data Engineer from India. My passion for data lies with dreaming up ideas and making them come true with elegant      machine learning models and flexible data pipelines. I take great care in models, pipelines and code quality of the things I build.
+-  Hi, I'm a passionate self-taught Data Scientist as well as Data Engineer from India. My passion for data lies with dreaming up ideas and making them come true with elegant      machine learning models and flexible data pipelines. I take great care in models, pipelines and code quality of the things I build.
 -  I am also an open-source enthusiast. I learned a lot from the open-source community and I love to collaborate and share knowledge. 
 -  💬 Ask me about Data Science and Cloud platforms, I am happy to help;
 -  I’m currently working as a Data Scientist in **Deloitte USI**. Working in real time ML project for Healthcare client.
