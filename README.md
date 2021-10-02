@@ -1,15 +1,6 @@
 
 ### Hey there..!!! I'm Vignesh S S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://www.linkedin.com/in/vignesh-sekar-sujatha-02aa9b125/">
-  <img align="left" alt="Vignesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCBhgeLTsXfbOCftTUu9nHSw">
-  <img align="left" alt="Cloud_AI_Analytics | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=vigneshSs-07.vigneshSs-07)
-     
+    
 -  Hi, i'm a passionate self-taught Data Scientist as well as Data Engineer from India. My passion for data lies with dreaming up ideas and making them come true with elegant      machine learning models and flexible data pipelines. I take great care in models, pipelines and code quality of the things I build.
 -  I am also an open-source enthusiast. I learned a lot from the open-source community and I love to collaborate and share knowledge. 
 -  💬 Ask me about Data Science and Cloud platforms, I am happy to help;
@@ -50,9 +41,14 @@ def vignesh_07():
 
 ### Connect with me:
 
-[<img align="left" alt="Vignesh s s | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://www.kaggle.com/vignesh1271]
-[<img align="left" alt="Vignesh s s | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/vignesh-sekar-sujatha-02aa9b125/]
+<a href="https://www.linkedin.com/in/vignesh-sekar-sujatha-02aa9b125/">
+  <img align="left" alt="Vignesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCBhgeLTsXfbOCftTUu9nHSw">
+  <img align="left" alt="Cloud_AI_Analytics | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=vigneshSs-07.vigneshSs-07)
 
 Note: Please do not spam on the above mentioned profiles.
 
