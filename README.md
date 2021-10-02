@@ -10,6 +10,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vigneshSs-07.vigneshSs-07)
      
+-  Hi, i'm a passionate self-taught Data Scientist as well as Data Engineer from India. My passion for data lies with dreaming up ideas and making them come true with elegant      machine learning models and flexible data pipelines. I take great care in models, pipelines and code quality of the things I build.
+-  I am also an open-source enthusiast. I learned a lot from the open-source community and I love to collaborate and share knowledge. 
+-  💬 Ask me about Data Science and Cloud platforms, I am happy to help;
 -  I’m currently working as a Data Scientist in **Deloitte USI**. Working in real time ML project for Healthcare client.
 -  Completed Microsoft Certified Azure Data Scientist Associate [Microsoft Data Scientist](https://www.credly.com/badges/91fffff4-5df5-480d-a0f3-b85f85781522/public_url)
 -  Completed Certification in Microsoft as Microsoft Certified Azure AI Fundamentals [AI Fundamentals](https://certification.microsoft.com/badge)
@@ -35,10 +38,21 @@ def vignesh_07():
   return cool
 ```
 
-Connect me on:
 
-    LinkedIn: https://www.linkedin.com/in/vignesh-sekar-sujatha-02aa9b125/
-    Kaggle: https://www.kaggle.com/vignesh1271
-    
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Integrate Azure Databricks with Azure Machine Learning Workspace](https://www.linkedin.com/pulse/integrate-azure-databricks-machine-learning-workspace-/)
+- [Create Google Cloud Storage Bucket Using UI In Google Cloud Platform](https://www.linkedin.com/pulse/create-google-cloud-storage-bucket-using-ui-platform-/)
+- [Create Google Cloud Storage Bucket Using CLI In Google Cloud Platform](https://www.linkedin.com/pulse/create-google-cloud-storage-bucket-using-cli-platform-/)
+<!-- BLOG-POST-LIST:END -->
+
+
+
+### Connect with me:
+
+[<img align="left" alt="Vignesh s s | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://www.kaggle.com/vignesh1271]
+[<img align="left" alt="Vignesh s s | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/vignesh-sekar-sujatha-02aa9b125/]
+
+
 Note: Please do not spam on the above mentioned profiles.
 
