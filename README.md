@@ -45,7 +45,7 @@ def vignesh_07():
 <a href="https://www.linkedin.com/in/vignesh-sekar-sujatha-02aa9b125/">
   <img align="left" alt="Vignesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCBhgeLTsXfbOCftTUu9nHSw">
+<a href="https://www.youtube.com/channel/UCyAnuvrJq_2JCnYm8atLE2w">
   <img align="left" alt="Cloud_AI_Analytics | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
