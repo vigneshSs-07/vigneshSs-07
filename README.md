@@ -5,7 +5,7 @@
 -  I am also an open-source enthusiast. I learned a lot from the open-source community and I love to collaborate and share knowledge. 
 -  Ask me about Data Science and Cloud platforms, I am happy to help.
 -  I’m currently working as a Data Scientist in **Deloitte USI**. Working in real time ML project for Healthcare client.
--  Completed Google Certified Professional Data Engineer [**Professional Data Engineer](https://www.credential.net/c5acb214-2d89-43bf-af17-12b9df7fa6c2?key=112a95cdb38d1f897057bfba42c8ce4fa7d58e2b48d6ca8b31379d3079f0aeab#gs.kzvtmo)
+-  Completed Google Certified Professional Data Engineer [**Professional Data Engineer**](https://www.credential.net/c5acb214-2d89-43bf-af17-12b9df7fa6c2?key=112a95cdb38d1f897057bfba42c8ce4fa7d58e2b48d6ca8b31379d3079f0aeab#gs.kzvtmo)
 -  Completed Microsoft Certified Azure Data Scientist Associate [**Microsoft Data Scientist**](https://www.credly.com/badges/91fffff4-5df5-480d-a0f3-b85f85781522/public_url)
 -  Completed Microsoft Certified Azure Data Scientist Associate [**Microsoft Azure AI Engineer**](https://www.credly.com/earner/earned/badge/99268851-d7af-4ed6-abdc-dc592f44279b)
 -  Completed Certification in Microsoft as Microsoft Certified Azure AI Fundamentals [**Microsoft AI Fundamentals**](https://certification.microsoft.com/badge)
