@@ -14,7 +14,6 @@
 -  Actively writing blogs on **Linkedin** in [**Cloud & AI_Analytics**](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
 -  Sharing back to community through youtube on advanced techniques in cloud like **Azure**, **Google Cloud Platform**, **SQL**, **Statistics**, **ML** and **NLP** related technologies through
    [**Cloud & AI_Analytics**](https://www.youtube.com/channel/UCyAnuvrJq_2JCnYm8atLE2w).
--  Data Science and Cloud platform **Instructor** at [**Cloud & AI_Analytics**](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
 -  Actively learning and looking for better opportunities in Machine Learning and Bigdata technologies.
 -  Open for collaborations in Data Science and Machine Learning projects.
 
