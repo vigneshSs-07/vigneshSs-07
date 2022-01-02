@@ -11,11 +11,11 @@
 -  Completed Certification in Microsoft as Microsoft Certified Azure AI Fundamentals [**Microsoft AI Fundamentals**](https://certification.microsoft.com/badge)
 -  Completed Certification in Microsoft as Microsoft Certified Azure Fundamentals [**Microsoft Azure Fundamentals**](https://certification.microsoft.com/badge)
 -  My previous employer is **TCS-digital** where my primary tasks is to build various ML POC under airlines and retail domains.
--  Learning from [Kaggle](https://www.kaggle.com/) and [Analytics Vidhya](https://www.analyticsvidhya.com/)
--  Actively writing blogs on **Linkedin** in [Cloud_AI_Analytics](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
+-  Learning from [**Kaggle**](https://www.kaggle.com/) and [**Analytics Vidhya**](https://www.analyticsvidhya.com/)
+-  Actively writing blogs on **Linkedin** in [**Cloud & AI_Analytics**](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
 -  Sharing back to community through youtube on advanced techniques in cloud like **Azure**, **GCP**, **SQL**, **Statistics**, **ML** and **NLP** related technologies through
-   [Cloud & AI Analytics](https://www.youtube.com/channel/UCyAnuvrJq_2JCnYm8atLE2w).
--  Data Science and Cloud platform **Instructor** at [Cloud_AI_Analytics](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
+   [**Cloud & AI_Analytics**](https://www.youtube.com/channel/UCyAnuvrJq_2JCnYm8atLE2w).
+-  Data Science and Cloud platform **Instructor** at [**Cloud & AI_Analytics**](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
 -  Actively learning and looking for better opportunities in Machine Learning and Bigdata technologies.
 -  Open for collaborations in Data Science and Machine Learning projects.
 
