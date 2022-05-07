@@ -3,7 +3,8 @@
     
 -  Hi, I'm a passionate self-taught Data Scientist as well as Data Engineer from India. My passion for data lies with dreaming up ideas and making them come true with elegant      machine learning models and flexible data pipelines. I take great care in models, pipelines and code quality of the things I build.
 -  I am also an open-source enthusiast. I learned a lot from the open-source community and I love to collaborate and share knowledge. 
--  I’m currently working as a Data Scientist and Data Engineer in **Deloitte USI**. Working in real time ML project for Healthcare client.
+-  I’m currently working as a Data Engineer and Data Scientist in **Deloitte USI**. Working in building an ETL Framework for Healthcare client.
+-  Completed Google Certified Cloud Digital Leader [**Digital Leader**](https://www.credential.net/46159b7a-dee3-4149-83d8-8728a6a9fa96)
 -  Completed Google Certified Professional Data Engineer [**Professional Data Engineer**](https://www.credential.net/c5acb214-2d89-43bf-af17-12b9df7fa6c2?key=112a95cdb38d1f897057bfba42c8ce4fa7d58e2b48d6ca8b31379d3079f0aeab#gs.kzvtmo)
 -  Completed Microsoft Certified Azure Data Scientist Associate [**Microsoft Data Scientist**](https://www.credly.com/badges/91fffff4-5df5-480d-a0f3-b85f85781522/public_url)
 -  Completed Microsoft Certified Azure Data Scientist Associate [**Microsoft Azure AI Engineer**](https://www.credly.com/earner/earned/badge/99268851-d7af-4ed6-abdc-dc592f44279b)
