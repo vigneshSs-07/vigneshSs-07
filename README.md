@@ -12,6 +12,7 @@
 -  Completed Microsoft Certified Azure Data Scientist Associate [**Microsoft Azure AI Engineer**](https://www.credly.com/earner/earned/badge/99268851-d7af-4ed6-abdc-dc592f44279b)
 -  Completed Certification in Microsoft as Microsoft Certified Azure AI Fundamentals [**Microsoft Azure AI Fundamentals**](https://certification.microsoft.com/badge)
 -  Completed Certification in Microsoft as Microsoft Certified Azure Fundamentals [**Microsoft Azure Fundamentals**](https://certification.microsoft.com/badge)
+-  Completed Certification in Microsoft as Microsoft Certified Security, Compliance, and Identity Fundamentals [**Security, Compliance, and Identity Fundamentals**](https://www.credly.com/badges/6ed7fb84-fcbe-4a49-9ff7-3792b9c5de1b/linked_in?t=re0kpc)
 -  My previous employer is **TCS-digital** where my primary tasks is to build various ML POC under airlines and retail domains.
 -  Actively writing blogs on **Linkedin** in [**Cloud & AI Analytics**](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
 -  Sharing back to community through youtube on advanced techniques in cloud like **Azure**, **Google Cloud Platform**, **SQL**, **Statistics**, **ML** and **NLP** related technologies through
