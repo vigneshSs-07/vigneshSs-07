@@ -28,8 +28,8 @@
 ```python
 def vignesh_07():
   skills_with_proficiency = {'Python': 'Advance', 'PySpark' : 'Advance','SQL & NoSQL': 'Intermediate', 'DSA': 'Intermediate', 'Statistics' : 'Advance'}
-  tools = ['numpy', 'pandas', 'pyspark', 'sklearn', 'nltk','spacy' ,'matplotlib', 'seaborn', 'keras', 'json', 'flask', 'powerBI', 'pyspark', 'time series', 'devops', 'Bigdata technologies']
-  cloud_architecture = ['Microsoft Azure Services', ' Google Cloud Platform']
+  tools = ['numpy', 'pandas', 'pyspark', 'sklearn', 'nltk','spacy' ,'matplotlib', 'seaborn', 'keras', 'json', 'flask', 'powerBI', 'pyspark', 'time series', 'devops', 'Bigdata technologies', 'etl pipelines', 'ci/cd-devops']
+  cloud_architecture = ['Microsoft Azure Services', ' Google Cloud Platform', 'Amazon Web Services']
   active_blogger = True
   return cool
 ```
