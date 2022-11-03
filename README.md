@@ -17,7 +17,7 @@
 -  Completed Certification in Microsoft as Microsoft Certified Security, Compliance, and Identity Fundamentals [**Security, Compliance, and Identity Fundamentals**](https://www.credly.com/badges/6ed7fb84-fcbe-4a49-9ff7-3792b9c5de1b/linked_in?t=re0kpc)
 -  Completed Certification in Microsoft as Microsoft Certified: Dynamics 365 Fundamentals (CRM) [**Dynamics 365 Fundamentals (CRM)**](https://www.credly.com/badges/ec4bea25-9f69-40c0-b081-30748b222405/linked_in?t=rk18wt)
 -  Completed Certification in Amazon as AWS Certified Cloud Practitioner [**AWS Cloud Practitioner**](https://www.credly.com/earner/earned/badge/074cf1ca-e415-4077-a666-8720bdf4c283)
--  Completed Certification in Microsoft as Microsoft Certified: Power Platform Fundamentals[**Power platform Fundamentals**](https://www.credly.com/badges/3ad8bebb-4604-415a-9959-a432bbcee865/linked_in?t=rkr247)
+-  Completed Certification in Microsoft as Microsoft Certified: Power Platform Fundamentals [**Power platform Fundamentals**](https://www.credly.com/badges/3ad8bebb-4604-415a-9959-a432bbcee865/linked_in?t=rkr247)
 -  My previous employer is **TCS-digital** where my primary tasks is to build various ML POC under airlines and retail domains.
 -  Actively writing blogs on **Linkedin** in [**Cloud & AI Analytics**](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
 -  Sharing back to community through youtube on advanced techniques in cloud like **Azure**, **Google Cloud Platform**, **SQL**, **Statistics**, **ML** and **NLP** related technologies through
