@@ -15,7 +15,7 @@
 -  Completed Certification in Microsoft as Microsoft Certified Azure AI Fundamentals [**Microsoft Azure AI Fundamentals**](https://certification.microsoft.com/badge)
 -  Completed Certification in Microsoft as Microsoft Certified Azure Fundamentals [**Microsoft Azure Fundamentals**](https://certification.microsoft.com/badge)
 -  Completed Certification in Databricks as Academy Accreditation - Databricks Lakehouse Fundamentals [**Databricks Lakehouse Fundamentals**](https://credentials.databricks.com/2a43c44b-3595-40e2-9879-9e4d16f6ebdb#gs.hqi8gj)
--  Completed Certification in Databricks as Academy Accreditation - Platform Administrator [**Platform Administrator**] (https://credentials.databricks.com/d2ec5229-aad9-4dcf-a360-4c9545e7c7b3)
+-  Completed Certification in Databricks as Academy Accreditation - Platform Administrator [**Platform Administrator**](https://credentials.databricks.com/d2ec5229-aad9-4dcf-a360-4c9545e7c7b3)
 -  Completed Certification in Microsoft as Microsoft Certified Security, Compliance, and Identity Fundamentals [**Security, Compliance, and Identity Fundamentals**](https://www.credly.com/badges/6ed7fb84-fcbe-4a49-9ff7-3792b9c5de1b/linked_in?t=re0kpc)
 -  Completed Certification in Microsoft as Microsoft Certified: Dynamics 365 Fundamentals (CRM) [**Dynamics 365 Fundamentals (CRM)**](https://www.credly.com/badges/ec4bea25-9f69-40c0-b081-30748b222405/linked_in?t=rk18wt)
 -  Completed Certification in Amazon as AWS Certified Cloud Practitioner [**AWS Cloud Practitioner**](https://www.credly.com/earner/earned/badge/074cf1ca-e415-4077-a666-8720bdf4c283)
