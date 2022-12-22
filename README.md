@@ -11,7 +11,7 @@
 -  Completed Google Certified Cloud Digital Leader [**Digital Leader**](https://www.credential.net/46159b7a-dee3-4149-83d8-8728a6a9fa96)
 -  Completed Microsoft Certified Azure Data Fundamentals [**Microsoft Azure Data Fundamentals**](https://www.credly.com/earner/earned/badge/128ebaa6-4b4f-47c7-b6d7-f5efe33b24ed)
 -  Completed Microsoft Certified Azure Data Scientist Associate [**Microsoft Data Scientist**](https://www.credly.com/badges/91fffff4-5df5-480d-a0f3-b85f85781522/public_url)
--  Completed Microsoft Certified Azure Data Scientist Associate [**Microsoft Azure AI Engineer**](https://www.credly.com/earner/earned/badge/99268851-d7af-4ed6-abdc-dc592f44279b)
+-  Completed Microsoft Certified Azure AI Engineer Associate [**Microsoft Azure AI Engineer**](https://www.credly.com/earner/earned/badge/99268851-d7af-4ed6-abdc-dc592f44279b)
 -  Completed Certification in Microsoft as Microsoft Certified Azure AI Fundamentals [**Microsoft Azure AI Fundamentals**](https://certification.microsoft.com/badge)
 -  Completed Certification in Microsoft as Microsoft Certified Azure Fundamentals [**Microsoft Azure Fundamentals**](https://certification.microsoft.com/badge)
 -  Completed Certification in Databricks as Academy Accreditation - Databricks Lakehouse Fundamentals [**Databricks Lakehouse Fundamentals**](https://credentials.databricks.com/2a43c44b-3595-40e2-9879-9e4d16f6ebdb#gs.hqi8gj)
@@ -20,6 +20,9 @@
 -  Completed Certification in Microsoft as Microsoft Certified: Dynamics 365 Fundamentals (CRM) [**Dynamics 365 Fundamentals (CRM)**](https://www.credly.com/badges/ec4bea25-9f69-40c0-b081-30748b222405/linked_in?t=rk18wt)
 -  Completed Certification in Amazon as AWS Certified Cloud Practitioner [**AWS Cloud Practitioner**](https://www.credly.com/earner/earned/badge/074cf1ca-e415-4077-a666-8720bdf4c283)
 -  Completed Certification in Microsoft as Microsoft Certified: Power Platform Fundamentals [**Power platform Fundamentals**](https://www.credly.com/badges/3ad8bebb-4604-415a-9959-a432bbcee865/linked_in?t=rkr247)
+-  Completed Microsoft Certified: Azure Network Engineer Associate [**Microsoft Azure Network Engineer**](https://www.credly.com/badges/46529ad5-f715-45b2-a71b-ce42a1708e3c/public_url)
+-  Completed Microsoft Certified: Azure Enterprise Data Analyst Associate [**Microsoft Azure Enterprise Data Analyst Associate**](https://www.credly.com/badges/56a46e20-f9bb-4b22-b424-9504315c0634/public_url)
+-  Completed Microsoft Certified Azure Security Operations Analyst Associate [**Microsoft Azure Security Operations Analyst Associate**](https://www.credly.com/badges/239ff43c-3257-4fb4-8a0b-ba6c29c19aa2/public_url)
 -  My previous employer is **TCS-digital** where my primary tasks is to build various ML POC under airlines and retail domains.
 -  Actively writing blogs on **Linkedin** in [**Cloud & AI Analytics**](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
 -  Sharing back to community through youtube on advanced techniques in cloud like **Azure**, **Google Cloud Platform**, **SQL**, **Statistics**, **ML** and **NLP** related technologies through
