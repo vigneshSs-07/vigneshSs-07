@@ -20,7 +20,7 @@
 -  Completed Certification in Microsoft as Microsoft Certified: Dynamics 365 Fundamentals (CRM) [**Dynamics 365 Fundamentals (CRM)**](https://www.credly.com/badges/ec4bea25-9f69-40c0-b081-30748b222405/linked_in?t=rk18wt)
 -  Completed Certification in Amazon as AWS Certified Cloud Practitioner [**AWS Cloud Practitioner**](https://www.credly.com/earner/earned/badge/074cf1ca-e415-4077-a666-8720bdf4c283)
 -  Completed Certification in Microsoft as Microsoft Certified: Power Platform Fundamentals [**Power platform Fundamentals**](https://www.credly.com/badges/3ad8bebb-4604-415a-9959-a432bbcee865/linked_in?t=rkr247)
--  Completed Microsoft Certified: Azure Network Engineer Associate [**Microsoft Azure Network Engineer**](https://www.credly.com/badges/46529ad5-f715-45b2-a71b-ce42a1708e3c/public_url)
+-  Completed Microsoft Certified: Azure Network Engineer Associate [**Microsoft Azure Network Engineer Associate**](https://www.credly.com/badges/46529ad5-f715-45b2-a71b-ce42a1708e3c/public_url)
 -  Completed Microsoft Certified: Azure Enterprise Data Analyst Associate [**Microsoft Azure Enterprise Data Analyst Associate**](https://www.credly.com/badges/56a46e20-f9bb-4b22-b424-9504315c0634/public_url)
 -  Completed Microsoft Certified Azure Security Operations Analyst Associate [**Microsoft Azure Security Operations Analyst Associate**](https://www.credly.com/badges/239ff43c-3257-4fb4-8a0b-ba6c29c19aa2/public_url)
 -  Completed Microsoft Certified Identity and Access Administrator Associate [**Microsoft Identity and Access Administrator Associate**](https://www.credly.com/badges/b31c7166-5238-4e7e-9c04-210194549fff/public_url)
