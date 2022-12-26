@@ -23,6 +23,7 @@
 -  Completed Microsoft Certified: Azure Network Engineer Associate [**Microsoft Azure Network Engineer**](https://www.credly.com/badges/46529ad5-f715-45b2-a71b-ce42a1708e3c/public_url)
 -  Completed Microsoft Certified: Azure Enterprise Data Analyst Associate [**Microsoft Azure Enterprise Data Analyst Associate**](https://www.credly.com/badges/56a46e20-f9bb-4b22-b424-9504315c0634/public_url)
 -  Completed Microsoft Certified Azure Security Operations Analyst Associate [**Microsoft Azure Security Operations Analyst Associate**](https://www.credly.com/badges/239ff43c-3257-4fb4-8a0b-ba6c29c19aa2/public_url)
+-  Completed Microsoft Certified Identity and Access Administrator Associate [**Microsoft Identity and Access Administrator Associate**](https://www.credly.com/badges/b31c7166-5238-4e7e-9c04-210194549fff/public_url)
 -  My previous employer is **TCS-digital** where my primary tasks is to build various ML POC under airlines and retail domains.
 -  Actively writing blogs on **Linkedin** in [**Cloud & AI Analytics**](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
 -  Sharing back to community through youtube on advanced techniques in cloud like **Azure**, **Google Cloud Platform**, **SQL**, **Statistics**, **ML** and **NLP** related technologies through
