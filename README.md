@@ -5,6 +5,7 @@
 -  I am also an open-source enthusiast. I learned a lot from the open-source community and I love to collaborate and share knowledge. 
 -  I’m currently working as a Data Engineer and Data Scientist in **Deloitte USI**. Working in building an ETL Framework for Healthcare client.
 -  Completed Google Certified Professional Cloud Architect [**Professional Cloud Architect**](https://www.credential.net/549d74fb-4f47-4cbb-95ff-e8e39bea1adc)
+-  Completed Google Certified Professional Cloud Database Engineer [**Professional Cloud Database Engineer**](https://google.accredible.com/ec3436e5-fd21-4a66-b1b4-2c879e25f068#gs.2d3e2i)
 -  Completed Google Certified Professional Machine Learning Engineer [**Professional Machine Learning Engineer**](https://www.credential.net/3888f920-dee2-4d25-a28e-f114b5e9eb79)
 -  Completed Google Certified Professional Cloud Developer [**Professional Cloud Developer**](https://www.credential.net/7f9867b1-cb0c-4ae1-81b3-5b642fb0b863?key=f3514cf69166ef493f49f9c26290d0d7e7f26d25a98247e33f65eadb200d272c)
 -  Completed Google Certified Professional Data Engineer [**Professional Data Engineer**](https://www.credential.net/c5acb214-2d89-43bf-af17-12b9df7fa6c2?key=112a95cdb38d1f897057bfba42c8ce4fa7d58e2b48d6ca8b31379d3079f0aeab#gs.kzvtmo)
