@@ -1,9 +1,9 @@
 
 ### Hey there..!!! I'm Vignesh S S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
     
--  Hi, I'm a passionate self-taught Data Scientist as well as Data Engineer from India. My passion for data lies with dreaming up ideas and making them come true with elegant      machine learning models and flexible bigdata pipelines. I take great care in models, pipelines and code quality of the things I build.
+-  Hi, I'm a passionate Data Engineer from India. My passion for data lies with dreaming up ideas and making them come true with elegant ETL/ELT and flexible bigdata pipelines. I take great care in models, pipelines and code quality of the things I build.
 -  I am also an open-source enthusiast. I learned a lot from the open-source community and I love to collaborate and share knowledge. 
--  I’m currently working as a Data Engineer and Data Scientist in **Deloitte USI**. Working in building an ETL Framework for Healthcare client.
+-  I’m currently working as a Data Engineer in **H&M**.
 -  Completed Google Certified Professional Cloud Architect [**Professional Cloud Architect**](https://www.credential.net/549d74fb-4f47-4cbb-95ff-e8e39bea1adc)
 -  Completed Google Certified Professional Cloud Database Engineer [**Professional Cloud Database Engineer**](https://google.accredible.com/ec3436e5-fd21-4a66-b1b4-2c879e25f068#gs.2d3e2i)
 -  Completed Google Certified Professional Machine Learning Engineer [**Professional Machine Learning Engineer**](https://www.credential.net/3888f920-dee2-4d25-a28e-f114b5e9eb79)
@@ -39,8 +39,8 @@
 ```python
 def vignesh_07():
   skills_with_proficiency = {'Python': 'Advance', 'PySpark' : 'Advance','SQL & NoSQL': 'Intermediate', 'DSA': 'Intermediate', 'Statistics' : 'Advance'}
-  tools = ['numpy', 'pandas', 'pyspark', 'sklearn', 'nltk','spacy' ,'matplotlib', 'seaborn', 'keras', 'json', 'flask', 'powerBI', 'pyspark', 'time series', 'devops', 'Bigdata technologies', 'etl pipelines', 'ci/cd-devops']
-  cloud_architecture = ['Microsoft Azure Services', ' Google Cloud Platform', 'Amazon Web Services']
+  tools = ['dbt tool', 'github', 'BigQuery', 'sklearn', 'Data Modeling', 'Data Analytics', 'json', 'yaml', 'powerBI', 'pyspark', 'Looker Studio', 'GCP Analytics Services', 'Bigdata technologies', 'etl/elt pipelines', 'ci/cd-devops']
+  cloud_architecture = [' Google Cloud Platform', 'Microsoft Azure Services']
   active_blogger = True
   return cool
 ```
