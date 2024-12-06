@@ -1,7 +1,7 @@
 
-### Hey there..!!! I'm Vignesh S S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there..!!! I'm Vignesh Sekar S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
     
--  Hi, I'm a passionate Data Engineer from India. My passion for data lies with dreaming up ideas and making them come true with elegant ETL/ELT and flexible bigdata pipelines. I take great care in models, pipelines and code quality of the things I build.
+-  Hi, I'm a passionate Cloud Data Engineer from India. My passion for Cloud platforms and Data lies with dreaming up ideas and making them come true with elegant ETL/ELT and flexible bigdata pipelines. I take great care in models, pipelines and code quality of the things I build.
 -  I am also an open-source enthusiast. I learned a lot from the open-source community and I love to collaborate and share knowledge. 
 -  I’m currently working as a Data Engineer in **H&M**.
 -  Completed Google Certified Professional Cloud Architect [**Professional Cloud Architect**](https://www.credential.net/549d74fb-4f47-4cbb-95ff-e8e39bea1adc)
@@ -26,11 +26,9 @@
 -  Completed Microsoft Certified: Azure Enterprise Data Analyst Associate [**Microsoft Azure Enterprise Data Analyst Associate**](https://www.credly.com/badges/56a46e20-f9bb-4b22-b424-9504315c0634/public_url)
 -  Completed Microsoft Certified Azure Security Operations Analyst Associate [**Microsoft Azure Security Operations Analyst Associate**](https://www.credly.com/badges/239ff43c-3257-4fb4-8a0b-ba6c29c19aa2/public_url)
 -  Completed Microsoft Certified Identity and Access Administrator Associate [**Microsoft Identity and Access Administrator Associate**](https://www.credly.com/badges/b31c7166-5238-4e7e-9c04-210194549fff/public_url)
--  My previous employer is **TCS-digital** where my primary tasks is to build various ML POC under airlines and retail domains.
--  Actively writing blogs on **Linkedin** in [**Cloud & AI Analytics**](https://www.linkedin.com/company/cloud-ai-analytics/?viewAsMember=true)
+-  Actively writing blogs on **Linkedin** in [**Cloud & AI Analytics**](https://cloudaianalytics.in/blog/)
 -  Sharing back to community through youtube on advanced techniques in cloud like **Azure**, **Google Cloud Platform**, **SQL**, **Statistics**, **ML** and **NLP** related technologies through
    [**Cloud & AI Analytics**](https://www.youtube.com/channel/UCyAnuvrJq_2JCnYm8atLE2w).
--  Actively learning and looking for better opportunities in Machine Learning and Bigdata technologies.
 -  Open for collaborations in Cloud Platform, Data Science, Data Engineering and Machine Learning projects.
 
     
