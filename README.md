@@ -51,6 +51,7 @@ def vignesh_07():
 - [Create Google Cloud Storage Bucket Using CLI In Google Cloud Platform](https://www.linkedin.com/pulse/create-google-cloud-storage-bucket-using-cli-platform-/)
 <!-- BLOG-POST-LIST:END -->
 
+📕 &nbsp;**Social Sites**
 
 * **Website:** [Cloud & AI Analytics](https://cloudaianalytics.in)
 * **YouTube Channel:** [Cloud & AI Analytics](https://www.youtube.com/@cloudaianalytics6242)
