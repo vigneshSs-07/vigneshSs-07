@@ -52,9 +52,8 @@ def vignesh_07():
 <!-- BLOG-POST-LIST:END -->
 
 
-1. **Website:** [Cloud & AI Analytics](https://cloudaianalytics.in)
-
-3. **YouTube Channel:** [Cloud & AI Analytics](https://www.youtube.com/@cloudaianalytics6242)
+* **Website:** [Cloud & AI Analytics](https://cloudaianalytics.in)
+* **YouTube Channel:** [Cloud & AI Analytics](https://www.youtube.com/@cloudaianalytics6242)
 
 ### Connect with me:
 
