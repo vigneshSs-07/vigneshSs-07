@@ -8,9 +8,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vigneshSs-07&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/vigneshSs-07)
 [![GitHub followers](https://img.shields.io/github/followers/vigneshSs-07?style=social)](https://github.com/vigneshSs-07)
-[![Years Badge](https://badges.pufler.dev/years/vigneshSs-07)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/vigneshSs-07)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/vigneshSs-07)](https://badges.pufler.dev)
+![GitHub Years](https://img.shields.io/badge/GitHub%20User-since%202021-blue)
+![GitHub Repos](https://img.shields.io/badge/Public%20Repos-48-informational) <!-- Replace XX with your repo count -->
+![GitHub Commits](https://img.shields.io/badge/Commits%20this%20month-1000+-green) <!-- Replace XX with your commit count -->
 
 </div>
 
