@@ -40,7 +40,7 @@
 
 ### ☁️ Google Cloud Platform
 [![GCP Professional Cloud Architect](https://img.shields.io/badge/Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credential.net/549d74fb-4f47-4cbb-95ff-e8e39bea1adc)
-[![GCP Professional Data Engineer](https://img.shields.io/badge/Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credential.net/c5acb214-2d89-43bf-af17-12b9df7fa6c2)
+[![GCP Professional Data Engineer](https://www.credly.com/badges/75567512-0747-490f-95a6-b76b2751326b/public_url)
 [![GCP Professional ML Engineer](https://img.shields.io/badge/Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credential.net/3888f920-dee2-4d25-a28e-f114b5e9eb79)
 [![GCP Professional Cloud Developer](https://img.shields.io/badge/Professional%20Cloud%20Developer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credential.net/7f9867b1-cb0c-4ae1-81b3-5b642fb0b863)
 [![GCP Professional Database Engineer](https://img.shields.io/badge/Professional%20Database%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://google.accredible.com/ec3436e5-fd21-4a66-b1b4-2c879e25f068)
